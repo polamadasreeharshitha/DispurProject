@@ -1,7 +1,7 @@
-Cust_ID,Name,Contact_No,email_ID,Add,Password
-C001,Aman,9999999999,aman@yahoo.com,"B-11, Tarun Enclave, Karol Bagh, Delhi",Aman123
-C002,Tamana,8888888888,tamana@gmail.com,"23, Hello Appartments, Rohini, Delhi",Tamana123
-C003,Dia,9879879874,dia@hotmail.com,"Room No. 126, IIT Girls Hostel",Dia123
-C004,Yug,9785698541,yug@hotmail.com,"23, Friends Colony, Noida",Yug123
-C005,Anu,9856321400,anu@gmail.com,"D-78, S F, Pitampura, Delhi",Anu123
-C006,Anuj,8457469820,anuj@yahoo.com,"A-11, Tricolor Arena, Gandhinagar, Gujarat",Anuj123
+Cust_ID,Name,Contact_No,Add
+C001,Aman,9999999999,"B-11, Tarun Enclave, Karol Bagh, Delhi"
+C002,Tamana,8888888888,"23, Hello Appartments, Rohini, Delhi"
+C003,Dia,9879879874,"Room No. 126, IIT Girls Hostel"
+C004,Yug,9785698541,"23, Friends Colony, Noida"
+C005,Anu,9856321400,"D-78, S F, Pitampura, Delhi"
+C006,Anuj,8457469820,"A-11, Tricolor Arena, Gandhinagar, Gujarat"

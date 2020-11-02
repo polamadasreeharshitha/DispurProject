@@ -1,5 +1,5 @@
-Emp_ID,Name,email_ID,Password,Designation
-E121,Aakash,aakash@hotmail.com,Aakash123,0
-E122,Anjana,anjana@gmail.com,Anjana123,1
-E123,Chetan,chetan@yahoo.com,Chetan123,0
-E124,Divya,divya@gmail.com,Divya123,2
+Emp_ID,Name,Designation
+E121,Aakash,HR
+E122,Anjana,ISM
+E123,Chetan,HR
+E124,Divya,Admin

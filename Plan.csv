@@ -1,0 +1,7 @@
+Plan_ID,Name,Type,Tarrif,Validity,Rental,Active
+P1,Basic Calling,1,2,28,NULL,1
+P2,Basic Data,2,2,30,NULL,1
+P3,Av Calling,1,3,28,NULL,1
+P4,Av Data,2,3,30,NULL,1
+P5,The Great Calling,1,4,28,NULL,1
+P6,The Great Data,2,4,30,NULL,1

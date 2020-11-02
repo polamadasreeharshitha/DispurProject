@@ -1,0 +1,29 @@
+{% extends "customer/base.html" %}
+{% load crispy_forms_tags %}
+{% block content %}
+
+      <table class="table">
+      <thead class="thead-light">
+        <tr>
+          <th scope="col">Reg_Id</th>
+          <th scope="col">Name</th>
+          <th scope="col">Address</th>
+          <th scope="col">Email</th>
+          <th scope="col">Contact</th>
+          <th scope="col">Status</th>
+          <th scope="col">Date</th>
+        </tr>
+      </thead>
+      {% for detail in customer_details %}
+      <tbody>
+        <tr>
+          <td>{{ detail.Reg_Id }}</td>
+          <td>{{ detail.Name }}</td>
+          <td>{{ detail.Address }}</td>
+          <td>{{ detail.Email }}</td>
+          <td>{{ detail.Contact }}</td>
+          <td>{{ detail.Status }}</td>
+          <td>{{ detail.Date }}</td>
+        </tr>
+    {% endfor %}
+{% endblock content %}
